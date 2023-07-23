@@ -1,1 +1,9 @@
 My first readme
+I CREATED A NEW BRANCH CALLED update_script USING THIS COMMAND
+git branch "update_script"
+
+I USED THIS COMMAND TO PUSH THE NEW BRANCH TO GITHUB
+git push origin update_script
+
+TO UPDATE MY LOCAL BRANCH WITH THE NEW CHANGES MADE ON GITHUB, I USED THIS COMMAND
+git pull
